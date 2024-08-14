@@ -1,0 +1,1130 @@
+@media(max-width:992px) {
+    .bar3 {
+        display: block;
+    }
+
+    .nav2 {
+        display: none;
+    }
+
+    .nav4 {
+        display: none;
+    }
+
+    .nav3 {
+        width: 70%;
+        justify-content: flex-end;
+    }
+
+    .nav1 {
+        width: auto;
+    }
+
+    .textimgbox h2 {
+        font-size: 40px;
+    }
+
+    .searchicon {
+        margin: 0px 20px;
+    }
+
+
+    .designp1 {
+        height: 1200px;
+        flex-direction: column;
+    }
+    .dboxc1 {
+        margin: 30px 0px 30px 0px;
+        width: 90%;
+    }
+    .bestbox1 {
+        height: 260px;
+        width: 260px;
+    }
+    .bestbox1 h3 {
+        font-size: 25px;
+    }
+    .dboxc2 {
+        width: 90%;
+    }
+    .dboxc2 h2 {
+        font-size: 42px;
+    }
+    .parentboxmain {
+        width: 90%;
+    }
+
+
+    .servicep1 {
+        border-radius: 30px;
+    }
+    .textser1 {
+        display: none;
+    }
+    .textseroffer h2 {
+        font-size: 45px;
+    }
+    .textseroffer h5 {
+        font-size: 25px;
+    }
+    .serc1 {
+        width: 45%;
+    }
+    .serc2 {
+        width: 45%;
+    }
+    .serc3 {
+        display: none;
+    }
+    .serviceendcontact {
+        height: 45px;
+        width: 70%;
+        font-size: 23px;
+    }
+
+
+    .chooseboxp1 {
+        height: 2200px;
+    }
+    .chooseparap1 {
+        flex-direction: column;
+        height: 320px;
+        margin: 30px 0px 20px 0px;
+    }
+    .choosehead1 {
+        width: 90%;
+        height: 180px;
+        margin: 0px 20px 0px 20px ;
+    }
+    .choosepara2 {
+        width: 90%;
+        height: 90px;
+        margin: 0px 20px 0px 20px ;
+        font-size: 16px;
+    }
+    .choosebutton3 {
+        width: 90%;
+        height: 180px;
+        margin: 0px 20px 0px 20px ;
+    }
+    .button111 {
+        margin-left: 0px;
+    }
+    .bookbut1 {
+        height: 50px;
+        width: 180px;
+        font-size: 15px;
+    }
+    .reasonparentbox1 {
+        flex-direction: column;
+        display: flex;
+        justify-content: start;
+        align-items: start;
+    }
+    .reasonc1 {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .reasontext1 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon1 {
+        width: 150px;
+    }
+    
+    .reasontext2 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon2 {
+        width: 150px;
+    }
+    .reasontext3 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon3 {
+        width: 150px;
+    }
+    .reasonc2 {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .reasonc211  {
+        height: 600px;
+        width: 600px;
+    }
+    .reasonc3 {
+        width: 90%;
+        margin-left: 20px;
+    }
+    .reasontext11 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon11 {
+        width: 150px;
+    }
+    .reasontext22 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon22 {
+        width: 150px;
+    }
+    .reasontext33 {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .reasonicon33 {
+        width: 150px;
+    }
+
+
+    .projectheadp1 {
+        flex-direction: column;
+    }
+    .projectheadc1 {
+        width: 90%;
+    }
+    .projectheadc2 {
+        width: 90%;
+        margin: 0px 0px 30px 0px;
+    }
+
+
+    .picboxp1 {
+        padding: 50px 0px 0px 0px;
+    }
+    .pic1 {
+        height: 300px;
+    }
+    .text1 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text1 h5{
+        font-size: 12px; 
+    }
+    .text1 h3{
+        font-size: 22px;
+    } 
+
+    .pic2 {
+        height: 300px;
+    }
+    .text2 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text2 h5{
+        font-size: 12px; 
+    }
+    .text2 h3{
+        font-size: 22px;
+    } 
+
+    .pic3 {
+        height: 300px;
+    }
+    .text3 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text3 h5{
+        font-size: 12px; 
+    }
+    .text3 h3{
+        font-size: 22px;
+    } 
+
+    .pic4 {
+        height: 300px;
+    }
+    .text4 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text4 h5{
+        font-size: 12px; 
+    }
+    .text4 h3{
+        font-size: 22px;
+    } 
+    .pic5 {
+        height: 300px;
+    }.text5 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text5 h5{
+        font-size: 12px; 
+    }
+    .text5 h3{
+        font-size: 22px;
+    } 
+
+    .pic6 {
+        height: 300px;
+    }
+    .text6 {
+        width: 80%;
+        height: auto;
+        padding: 120px 0px 30px 30px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text6 h5{
+        font-size: 12px; 
+    }
+    .text6 h3{
+        font-size: 22px;
+    } 
+
+
+
+    .picboxp1 {
+        /* flex-direction: column; */
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .main_picbox1 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic1 {
+        height: 220px;
+    }
+    .trans_main1 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text1 {
+        height: 220px;
+        margin: 20px
+    }
+    
+    .main_picbox2 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic2 {
+        height: 220px;
+    }
+    .trans_main2 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text2 {
+        height: 220px;
+        margin: 20px
+    }
+
+    .main_picbox3 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic3 {
+        height: 220px;
+    }
+    .trans_main3 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text3 {
+        height: 220px;
+        margin: 20px
+    }
+
+
+    .picboxp2 {
+        /* flex-direction: column; */
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .main_picbox4 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic4 {
+        height: 220px;
+    }
+    .trans_main4 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text4 {
+        height: 220px;
+        margin: 20px
+    }
+    
+    .main_picbox5 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic5 {
+        height: 220px;
+    }
+    .trans_main5 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text5 {
+        height: 220px;
+        margin: 20px
+    }
+
+    .main_picbox6 {
+        height: 220px;
+        margin: 20px;
+    }
+    .pic6 {
+        height: 220px;
+    }
+    .trans_main6 {
+        width: 100%;
+        height: 220px;
+    }
+    .pic_text6 {
+        height: 220px;
+        margin: 20px
+    }
+    
+
+
+
+    .plan_main_box {
+        flex-direction: column;
+        padding: 0px 0px 50px 0px;
+    }
+    .plan_child_box1 {
+        width: 90%;
+    }
+    .plan_child_box2 {
+        width: 90%;
+        margin: 30px 0px 0px 0px;
+    }
+
+}
+
+@media(max-width:700px) {
+    .searchicon {
+        display: none;
+    }
+    .nav3 {
+        width: 50%;
+    }
+    .textimgbox h2 {
+        font-size: 40px;
+    }
+
+
+
+    .dboxc1 {
+        padding: 200px 0px 0px 0px;
+        display: flex;
+        justify-content: end;
+        
+    }
+    .bestbox1 {
+        height: 180px;
+        width: 180px;
+    }
+    .bestbox1 h3 {
+        font-size: 15px;
+        text-align: center;
+        margin: 10px;
+    }
+
+
+
+    .parentboxmain {
+        flex-direction: column;
+    }
+    .mainbox11 {
+        width: 100%;
+    }
+    .combox1 {
+        margin-bottom: 30px;
+    }
+    .resbox2 {
+        margin-bottom: 30px;
+    }
+    .mainbox22 {
+        width: 100%;
+    }
+    .indbox3 {
+        margin-bottom: 30px;
+    }
+    .boxbox {
+        width: 90%;
+        height: 200px;
+    }
+    .name1 {
+        width: 100%;
+    }
+    
+
+
+    .serviceendcontact {
+        height: 35px;
+        width: 70%;
+        font-size: 15px;
+    }
+
+    
+    .numberboxp1 {
+        flex-direction: column;
+        margin: 40px 0px 40px 0px;
+        /* height: 800px; */
+    }
+    .numc1 {
+        padding: 30px 0px 30px 0px ;
+        width: 40%;
+    }
+    .numc2 {
+        padding: 30px 0px 30px 0px ;
+        width: 40%;
+    }
+    .numc3 {
+        padding: 30px 0px 30px 0px ;
+        width: 40%;
+    }
+    .numc4  {
+        padding: 30px 0px 30px 0px ;
+        width: 40%;
+    }
+    .textseroffer {
+        width: 80%;
+    }
+    .textseroffer h2 {
+        font-size: 45px;
+    }
+    .textseroffer h5 {
+        font-size: 25px;
+    }
+
+
+    .picboxp1 {
+        flex-direction: column;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .main_picbox1 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic1 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main1 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text1 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text1 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text1 h5{
+        font-size: 20px; 
+    }
+    .text1 h3{
+        font-size: 30px;
+    } 
+
+    .main_picbox2 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic2 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main2 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text2 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text2 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text2 h5{
+        font-size: 20px; 
+    }
+    .text2 h3{
+        font-size: 30px;
+    }
+
+    .main_picbox3 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic3 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main3 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text3 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text3 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text3 h5{
+        font-size: 20px; 
+    }
+    .text3 h3{
+        font-size: 30px;
+    }
+
+
+    .picboxp2 {
+        flex-direction: column;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .main_picbox4 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic4 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main4 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text4 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text4 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text4 h5{
+        font-size: 20px; 
+    }
+    .text4 h3{
+        font-size: 30px;
+    }
+
+    .main_picbox5 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic5 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main5 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text5 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text5 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text5 h5{
+        font-size: 20px; 
+    }
+    .text5 h3{
+        font-size: 30px;
+    }
+    
+    .main_picbox6 {
+        width: 100%;
+        height: 350px;
+        margin: 20px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .pic6 {
+        width: 90%;
+        height: 500px;
+        margin: 20px;
+    }
+    .trans_main6 {
+        width: 100%;
+        height: 500px;
+    
+    }
+    .pic_text6 {
+        width: 90%;
+        height: 500px;
+        margin: 20px
+    }
+    .text6 {
+        width: auto;
+        height: auto;
+        padding: 320px 0px 30px 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: start;
+        text-align: start;
+        flex-direction: column;
+    }
+    .text6 h5{
+        font-size: 20px; 
+    }
+    .text6 h3{
+        font-size: 30px;
+    }
+
+
+
+    
+    .plan_child_box1 {
+        flex-direction: column;
+    }
+    .basic_plan1 {
+        width: 90%;
+        margin: 20px 0px 20px 0px;
+    }
+    .advance_plan2 {
+        width: 90%;
+        margin: 20px 0px 20px 0px;
+    }
+
+
+
+    .global5 {
+        display: none;
+    }
+    .global6 {
+        display: none;
+    }
+    .global4 {
+        display: none;
+    }
+
+
+
+    .video {
+        height: 450px;
+    }
+
+
+    .footer_head_box1 {
+        flex-direction: column;
+    }
+    .footer_head1 {
+        width: 90%;
+    }
+    .footer_head2 {
+        width: 90%;
+    }
+    .footer_head3 {
+        width: 90%;
+    }
+    .footer_head_box2 {
+        flex-direction: column;
+    }
+    .footer_head111 {
+        width: 90%;
+        text-align: center;
+        padding: 0px 0px 10px 0px;
+    }
+    .footer_head222 {
+        width: 90%;
+        padding: 0px 0px 20px 0px;
+    }
+    .footer_head333 {
+        width: 90%;
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width:450px) {
+    .imgfull {
+        height: 750px;
+    }
+
+    .bestbox1 {
+        height: 120px;
+        width: 120px;
+        background-size: 70px;
+    }
+    .bestbox1 h3 {
+        font-size: 10px;
+    }
+
+
+    .numberboxp1 {
+        margin: 100px 0px 40px 0px;
+    }
+
+    .serc1 {
+        width: 80%;
+    }
+    .serc2 {
+        display: none;
+    }
+    .serviceendcontact {
+        height: 35px;
+        width: 80%;
+        font-size: 12px;
+    }
+
+
+
+    .chooseboxp1 {
+        height: 2000px;
+    }
+    .reasonc211 {
+        height: 350px;
+        width: 350px;
+    }
+
+
+
+    .projectheadc1 {
+        height: auto;
+    }
+    .projectheadc2 {
+        flex-direction: column;
+        display: flex;
+        justify-content: space-evenly;
+        margin: 30px 0px 0px 30px;
+    }
+    .head1 {
+        width: auto;
+    }
+    .head2 {
+        width: auto;
+    }
+    .head3 {
+        width: auto;
+    }
+    .head4 {
+        width: auto;
+    }
+    .head5 {
+        width: auto;
+    }
+    .head6 {
+        width: auto;
+    }
+
+
+    
+    .picboxp1 {
+        flex-direction: column;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .pic1 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main1 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text1 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text1 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+
+    .pic2 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main2 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text2 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text2 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+
+    .pic3 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main3 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text3 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text3 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+    .picboxp2 {
+        flex-direction: column;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .pic4 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main4 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text4 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text4 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+    .pic5 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main5 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text5 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text5 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+
+    .pic6 {
+        width: 90%;
+        height: 350px;
+        margin: 20px;
+    }
+    .trans_main6 {
+        width: 100%;
+        height: 350px;
+    
+    }
+    .pic_text6 {
+        width: 90%;
+        height: 350px;
+        margin: 20px
+    }
+    .text6 {
+        height: auto;
+        width: auto;
+        padding: 220px 0px 30px 30px;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: start;
+            text-align: start;
+            flex-direction: column;
+    
+    }
+
+
+
+
+    .global3 {
+        display: none;
+    }
+
+    .video {
+        height: 300px;
+    }
+}
