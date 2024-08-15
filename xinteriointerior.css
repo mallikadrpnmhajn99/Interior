@@ -6,7 +6,6 @@
 .navbarmain {
     height: 100px;
     width: 100%;
-    /* background-color: #333; */
     display: flex;
     position: absolute;
     z-index: 100;
@@ -2503,8 +2502,15 @@ a:hover{
     border-radius: 30px;
     border: none;
     margin: 35px 0px 0px 30px;
+    transition: all 0.5s ease;
 }
 
+.purchase_button1:hover {
+    color: #403226;
+    background-color: white;
+    border: 1px solid #403226;
+    transform: scale(0.95);
+}
 
 .advance_plan2 {
     height: 500px;
@@ -2616,7 +2622,16 @@ a:hover{
     border-radius: 30px;
     border: none;
     margin: 35px 0px 0px 30px;
+    transition: all 0.5s ease;
 }
+
+.purchase_button2:hover {
+    color: #FFFFFF;
+    background-color: #BB9A69;
+    border: 1px solid #FFFFFF;
+    transform: scale(0.95);
+}
+
 
 .plan_child_box2 {
     height: 400px;
